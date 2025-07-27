@@ -82,6 +82,4 @@ This tool is meant for **educational and ethical use only**. Unauthorized packet
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-- Email: [you@example.com]  
-- GitHub: [github.com/yourusername]
+- GitHub: https://github.com/AlphaKingpin/PRODIGY_CS_05
